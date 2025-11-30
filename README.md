@@ -168,8 +168,7 @@ RegistrasiBloc.registrasi(
 
 #### d. Registrasi Gagal
 
-<!-- Tambahkan screenshot dialog registrasi gagal -->
-<img width="300" alt="Registrasi Gagal" src="" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/00829260-77f8-4063-808c-1cad000e6671" />
 
 ```dart
 onError: (error) {
